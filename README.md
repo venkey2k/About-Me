@@ -1,100 +1,70 @@
-
 <!-- ============================================================
-     VENKATESH RAJA — ULTRA ADVANCED GITHUB PROFILE README
+     VENKATESH RAJA — GITHUB PROFILE README v2.0
+     « NEON OVERDRIVE EDITION » — ultra-animated dark-neon profile
+     Theme: #0A0F1C base · #00D9FF cyan · #818CF8 violet ·
+            #A855F7 purple · #FF2E88 magenta · #34D399 green
      ============================================================ -->
 
+<!-- ═══════════════ 1 · VENOM NEON HEADER ═══════════════ -->
+
 <div align="center">
-
-<!-- ANIMATED HEADER WITH PARTICLE EFFECT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkatesh%20Raja&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Algo%20Trader&descAlignY=58&descSize=18" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:FF2E88,50:A855F7,100:00D9FF&text=VENKATESH%20RAJA&fontSize=64&fontColor=FFFFFF&animation=fadeIn&stroke=00D9FF&strokeWidth=2&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Algo%20Trading%20Systems&descSize=19&descAlignY=74&descColor=E2E8F0" alt="Venkatesh Raja — Neon Venom Header" />
 </div>
 
-<!-- ANIMATED TYPING WITH MULTIPLE ROLES -->
+<!-- ═══════════════ 2 · COMMAND-DECK NAVIGATION ═══════════════ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=55&lines=⚡+Full+Stack+Developer+%7C+2.8%2B+Years;🤖+AI+%26+Machine+Learning+Engineer;📈+Algorithmic+Trading+Systems+Builder;🔥+React+·+Spring+Boot+·+Python+·+XGBoost;🚀+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+
+<br/>
+
+<!-- ═══════════════ 3 · NEON TYPING ROLES ═══════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=820&height=55&lines=⚡+Full+Stack+Developer+—+2.8%2B+Years;🤖+AI+%2F+ML+Engineer+—+XGBoost+·+TensorFlow;📈+Algo+Trading+Systems+—+78%25+Accuracy;🔥+React+·+Spring+Boot+·+Python+·+Redis;⚡+Sub-50ms+Real-time+ML+Inference;🚀+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</div>
+
+<!-- ═══════════════ 4 · LIVE TERMINAL (multi-line typing) ═══════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=2600&pause=700&color=34D399&background=0A0F1C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=$+whoami;%3E+venkatesh_raja+::+full-stack+%2B+ai_engineer;$+system+--status;%3E+OPEN_TO_OPPORTUNITIES+🟢" alt="Live Terminal — whoami" />
 </div>
 
 <br/>
 
-<!-- ANIMATED SOCIAL BADGES ROW -->
+<!-- ═══════════════ 5 · SOCIAL BADGES ═══════════════ -->
+
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-venkeyportfolio.vercel.app-00D9FF?style=for-the-badge&logoColor=white&labelColor=0A0F1C)](https://venkeyportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1C)](https://www.linkedin.com/in/venkeyid)
-[![Gmail](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1C)](mailto:venkey2kkid@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-venkeyvss-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1C)](https://github.com/venkeyvss)
-
-</div>
 
 <br/>
 
-<!-- ANIMATED METRICS BAR -->
+<!-- ═══════════════ 6 · LIVE METRICS BAR ═══════════════ -->
+
 <div align="center">
 
-![Experience](https://img.shields.io/badge/⏱_Experience-2.8%2B_Years-34D399?style=for-the-badge&labelColor=0A0F1C)
-![Projects](https://img.shields.io/badge/🚀_Projects-15%2B_Delivered-818CF8?style=for-the-badge&labelColor=0A0F1C)
-![ML Accuracy](https://img.shields.io/badge/🤖_ML_Accuracy-78%25_Trading_Engine-FF6B6B?style=for-the-badge&labelColor=0A0F1C)
-![Inference](https://img.shields.io/badge/⚡_Inference-Sub_50ms-F59E0B?style=for-the-badge&labelColor=0A0F1C)
-![Uptime](https://img.shields.io/badge/✅_System_Uptime-99.9%25-00D9FF?style=for-the-badge&labelColor=0A0F1C)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 
-</div>
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
----
-
-<!-- ANIMATED ABOUT SECTION WITH SIDEBAR -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+## 🧬 About Me
 
 <table>
 <tr>
 <td width="55%">
 
-```yaml
-name: Venkatesh Raja
-role: Full Stack Developer & AI Engineer
-company: MAK Infotech Pvt. Ltd.
-location: Dharmapuri, Tamil Nadu, India 📍
-experience: 2.8+ years
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 
-education:
-  degree: M.Sc. Computer Science
-  college: Govt. Arts & Science College
-  location: Pennagaram
+<!-- ═══════════════ TECH ARSENAL ═══════════════ -->
 
-currently_building:
-  - 🤖 AI Algorithmic Trading Platform
-  - 📊 XGBoost Prediction Engine (78% acc)
-  - ⚡ Sub-50ms Real-time ML Inference
-  - 🔄 WebSocket Trading Dashboards
+## ⚡ Tech Arsenal
 
-passions:
-  - Machine Learning & Deep Learning
-  - Real-time Data Processing
-  - Automated Trade Execution
-  - System Architecture Design
+<!-- NEON ICON WALL -->
 
-status: Open to Exciting Opportunities 🟢
-```
-
-</td>
-<td width="45%">
-
-<img src="https://github-stats-extended.vercel.app/api?username=venkey2k&show_icons=true&count_private=true&title_color=00D9FF&icon_color=818CF8&text_color=E2E8F0&bg_color=0A0F1C&hide_border=true&border_radius=12&custom_title=⚡+GitHub+Analytics" alt="GitHub Stats" width="100%" />
+<div align="center">
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=venkey2k&theme=dark&hide_border=true&background=0A0F1C&stroke=00D9FF&ring=00D9FF&fire=818CF8&currStreakNum=E2E8F0&sideNums=94A3B8&currStreakLabel=00D9FF&sideLabels=94A3B8&dates=64748B&border_radius=12" alt="Streak" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TECH STACK - ANIMATED SECTIONS -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
-
 <!-- FRONTEND -->
+
 <details open>
 <summary><b>🎨 Frontend Engineering</b></summary>
 <br/>
@@ -112,6 +82,7 @@ status: Open to Exciting Opportunities 🟢
 </details>
 
 <!-- BACKEND -->
+
 <details open>
 <summary><b>⚙️ Backend Engineering</b></summary>
 <br/>
@@ -122,12 +93,13 @@ status: Open to Exciting Opportunities 🟢
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![JWT](<https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white>)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 </details>
 
 <!-- AI/ML -->
+
 <details open>
 <summary><b>🤖 AI / Machine Learning</b></summary>
 <br/>
@@ -144,6 +116,7 @@ status: Open to Exciting Opportunities 🟢
 </details>
 
 <!-- DATABASES -->
+
 <details open>
 <summary><b>🗄️ Databases & Caching</b></summary>
 <br/>
@@ -157,6 +130,7 @@ status: Open to Exciting Opportunities 🟢
 </details>
 
 <!-- DEVOPS -->
+
 <details open>
 <summary><b>☁️ DevOps & Cloud Infrastructure</b></summary>
 <br/>
@@ -172,10 +146,18 @@ status: Open to Exciting Opportunities 🟢
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 
-<!-- SKILL PROFICIENCY BARS -->
-## 📊 Skill Proficiency
+<!-- ═══════════════ SKILL MATRIX ═══════════════ -->
+
+## 📊 Skill Matrix
+
+<div align="center">
+
+<div align="center">
+
+<details>
+<summary><b>🖥️ Retro Terminal View</b></summary>
 
 ```
 React.js / Frontend     ████████████████████░   95%
@@ -186,157 +168,49 @@ System Architecture     ████████████████░░�
 DevOps / AWS / Docker   ███████████████░░░░░░   75%
 ```
 
----
+</details>
 
-<!-- FEATURED PROJECTS - ADVANCED CARDS -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+
 ## 🚀 Featured Projects
 
-<!-- PROJECT 1 -->
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Algorithmic Trading Platform
-> *Production-grade ML trading system*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 
-```
-📈 78% Prediction Accuracy (XGBoost)
-⚡ Sub-50ms Real-time Inference
-📊 500+ NSE Stocks Monitored Live
-🔄 Automated Trade Execution Engine
-💹 WebSocket Real-time Dashboards
-🗄️ Redis Cache — Zero Latency Data
-```
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
 
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6F00?style=flat)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat)
-
-</td>
-<td width="50%">
-
-### 🛒 Mobile E-Commerce Platform
-> *High-performance commerce solution*
-
-```
-🛍️ 10,000+ SKUs — Full Catalog
-⚡ 45% Faster APIs via Redis Cache
-💳 Razorpay Payment Integration
-📱 Mobile-first Responsive Design
-🔐 JWT Secured REST APIs
-📦 Spring Boot Microservices
-```
-
-**Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎵 Face Emotion Music Player
-> *Real-time CV + Music Intelligence*
-
-```
-😊 CNN Emotion Detection Engine
-🎵 Mood-based Auto Playlist Gen
-📷 Real-time Webcam Processing
-🧠 TensorFlow Deep Learning Model
-🎭 7 Emotion Classes Recognized
-⚡ Real-time OpenCV Pipeline
-```
-
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN_Model-FF6B6B?style=flat)
-
-</td>
-<td width="50%">
-
-### 🎤 Voice Authentication System
-> *Biometric speaker verification AI*
-
-```
-🔐 92% Authentication Accuracy
-⚡ Sub-1s Speaker Matching
-🎵 MFCC Feature Extraction
-🧠 Custom ML Verification Model
-🔊 Real-time Audio Processing
-🛡️ Anti-spoofing Protection
-```
-
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine_Learning-F7931E?style=flat)
-![Audio](https://img.shields.io/badge/-Audio_Processing-00D9FF?style=flat)
-![MFCC](https://img.shields.io/badge/-MFCC_Analysis-818CF8?style=flat)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-### 👨‍💻 Animated Developer Portfolio
-> *Personal brand — engineered from scratch*
-
-```
-🎨 Custom Animated SVG Banner        ⏱️ Live Experience Counter
-🌓 4 Dynamic Theme Switcher          👁️ JSON View Counter System  
-📱 Fully Responsive Design           ✨ Smooth CSS Animations
-```
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![View Live](https://img.shields.io/badge/🌐_View_Live_Portfolio-00D9FF?style=for-the-badge)](https://venkeyportfolio.vercel.app/)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- WORK EXPERIENCE TIMELINE -->
 ## 💼 Professional Experience
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                    CAREER TIMELINE                               ║
+║                        CAREER TIMELINE                           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  DEC 2023 ──────────────────────────────────── PRESENT          ║
+║  DEC 2023 ──────────────────────────────────── PRESENT           ║
 ║  │                                                               ║
 ║  └── 🚀 FULL STACK DEVELOPER                                    ║
 ║       MAK Infotech Pvt. Ltd.                                     ║
 ║                                                                  ║
-║       ✅ XGBoost Trading Engine (78% accuracy)                  ║
-║       ✅ React.js WebSocket Real-time Dashboards                ║
+║       ✅ XGBoost Trading Engine (78% accuracy)                   ║
+║       ✅ React.js WebSocket Real-time Dashboards                 ║
 ║       ✅ Sub-50ms ML Inference Pipeline                          ║
-║       ✅ 99.9% Uptime CI/CD Deployment                          ║
+║       ✅ 99.9% Uptime CI/CD Deployment                           ║
 ║       ✅ Spring Boot Microservices Architecture                  ║
-║       ✅ Redis Caching — 45% API Performance Boost              ║
+║       ✅ Redis Caching — 45% API Performance Boost               ║
 ║                                                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  JUN 2022 ──────────────────────────────────── MAY 2023         ║
+║  JUN 2022 ──────────────────────────────────── MAY 2023          ║
 ║  │                                                               ║
 ║  └── 🎯 SOFTWARE DEVELOPER INTERN                               ║
 ║       MAK Infotech Pvt. Ltd.                                     ║
 ║                                                                  ║
-║       ✅ React.js + Tailwind E-Commerce UI                      ║
+║       ✅ React.js + Tailwind E-Commerce UI                       ║
 ║       ✅ Spring Boot REST API Development                        ║
 ║       ✅ Redis Caching Implementation                            ║
 ║       ✅ Razorpay Payment Gateway Integration                    ║
@@ -344,147 +218,142 @@ DevOps / AWS / Docker   ███████████████░░░�
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 
-<!-- GITHUB ANALYTICS SECTION -->
-## 📊 GitHub Analytics
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=venkey2k&show_icons=true&count_private=true&title_color=00D9FF&icon_color=818CF8&text_color=E2E8F0&bg_color=0A0F1C&hide_border=true&border_radius=12&custom_title=⚡+Venkatesh+GitHub+Stats&include_all_commits=true" alt="GitHub Stats" width="49%" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=venkey2k&layout=compact&title_color=00D9FF&text_color=E2E8F0&bg_color=0A0F1C&hide_border=true&border_radius=12&custom_title=🔥+Most+Used+Languages&langs_count=8" alt="Top Languages" width="49%" />
-
-</div>
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=venkey2k&theme=dark&hide_border=true&background=0A0F1C&stroke=00D9FF&ring=00D9FF&fire=818CF8&currStreakNum=E2E8F0&sideNums=94A3B8&currStreakLabel=00D9FF&sideLabels=94A3B8&dates=64748B&border_radius=12" alt="GitHub Streak" width="70%" />
+<!-- PROFILE SUMMARY CARDS -->
 
-</div>
+<div align="center">
 
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
+
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkey2k&bg_color=0A0F1C&color=00D9FF&line=818CF8&point=60A5FA&area=true&area_color=818CF8&hide_border=true&custom_title=⚡%20Contribution%20Activity%20Graph&radius=8)](https://github.com/venkeyvss)
-
-</div>
 
 <!-- SNAKE ANIMATION -->
-<div align="center">
-
-<img src="github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![Trophies](https://trophy.ryglcloud.net/?username=venkey2k&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/venkeyvss)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 
-</div>
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 
----
+## 🏆 Achievements
 
-<!-- EDUCATION SECTION -->
+<div align="center">
+
+<!-- ═══════════════ DEV VIBES (auto-refreshing cards) ═══════════════ -->
+
+## 🎲 Daily Dev Vibes
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
+
+<!-- ═══════════════ EDUCATION ═══════════════ -->
+
 ## 🎓 Education
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    🎓 EDUCATION                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  M.Sc. Computer Science                                     │
-│  Govt. Arts & Science College, Pennagaram                   │
-│  Tamil Nadu, India                                          │
-│                                                             │
-│  Focus Areas:                                               │
-│  • Machine Learning & Deep Learning                         │
-│  • Data Structures & Algorithms                             │
-│  • Database Management Systems                              │
-│  • Software Engineering Principles                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<!-- ═══════════════ CURRENTLY EXPLORING ═══════════════ -->
 
-</div>
-
----
-
-<!-- WHAT I'M CURRENTLY LEARNING -->
 ## 🌱 Currently Exploring
 
 <div align="center">
 
-| 🔭 Building | 📚 Learning | 🎯 Goals 2025 |
-|:---:|:---:|:---:|
-| AI Trading Platform | LLM Fine-tuning | Open Source Contributions |
-| Real-time ML Pipelines | Cloud Architecture | System Design Mastery |
-| WebSocket Dashboards | Kubernetes at Scale | ML Production Deployment |
-| Microservices Systems | GraphQL | Senior Engineer Role |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider" />
 
-</div>
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
----
-
-<!-- CONNECT SECTION -->
-## 🌐 Let's Connect & Collaborate
+## 🌐 Let's Connect
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/venkeyid">
-  <img src="https://img.shields.io/badge/LinkedIn-Venkatesh_Raja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1C" />
-</a>
-
-<a href="https://github.com/venkeyvss">
-  <img src="https://img.shields.io/badge/GitHub-venkeyvss-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1C" />
-</a>
-
-<a href="mailto:venkey2kkid@gmail.com">
-  <img src="https://img.shields.io/badge/Email-venkey2kkid@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1C" />
-</a>
-
-<a href="https://youtube.com/@vss_edits">
-  <img src="https://img.shields.io/badge/YouTube-@vss__edits-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0F1C" />
-</a>
-
-<a href="https://venkeyportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-venkeyportfolio.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0F1C" />
-</a>
-
-</div>
 
 <br/>
 
-<!-- QUOTE -->
 <div align="center">
 
-> *"The best code is not just functional — it's fast, scalable, and tells a story."*
-> 
-> **— Venkatesh Raja**
+<!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF2E88&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Let%27s+build+something+legendary+🚀;Open+to+collaborations+🤝;Star+my+repos+—+it+fuels+the+grind+⭐" alt="Footer typing" />
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=130&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" />
+</div>
 
-<!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" />
+<!-- ═══════════════ OPTIONAL POWER-UPS (GitHub Actions) ═══════════════ -->
 
-</div>
+<details>
+<summary><b>🛠️ Power-ups — activate 3D contrib graph + auto snake (GitHub Actions)</b></summary>
+<br/>
 
-<!-- FOOTER BADGES -->
-<div align="center">
+The snake SVG and a 3D contribution graph regenerate via scheduled Actions.
+Drop these into `.github/workflows/` in your profile repo (`venkey2k/venkey2k`):
 
-![Profile Views](https://komarev.com/ghpvc/?username=venkey2k&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0A0F1C)
-![Visitors](https://img.shields.io/badge/Thanks_for_Visiting!-⭐_Star_My_Repos-818CF8?style=for-the-badge&labelColor=0A0F1C)
-![Made with](https://img.shields.io/badge/Crafted_with-❤️_&_☕-34D399?style=for-the-badge&labelColor=0A0F1C)
+**1 · Snake — `.github/workflows/snake.yml`**
 
-</div>
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: venkey2k
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then reference: `https://raw.githubusercontent.com/venkey2k/venkey2k/output/github-contribution-grid-snake-dark.svg`
+
+**2 · 3D Contribution Graph — `.github/workflows/3d-contrib.yml`**
+
+```yaml
+name: 3D Contrib
+on:
+  schedule: [{ cron: "0 18 * * *" }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: venkey2k
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: chore: update 3D contrib graph
+```
+
+Then embed: `./profile-3d-contrib/profile-night-rainbow.svg`
+
+**3 · Full Metrics Card — `.github/workflows/metrics.yml`** uses `lowlighter/metrics@latest`
+with the classic plugin set (isocalendar, languages, habits, achievements).
+
+</details>
